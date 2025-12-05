@@ -1,0 +1,21 @@
+Tempo de ciclo C: 9.000000
+Tempo de execução: 1800.37 segundos
+Estacao 1; trabalhador 11; T_s 9.000000; tarefas 1 2 3 4 6
+Estacao 2; trabalhador 3; T_s 8.000000; tarefas 9 24
+Estacao 3; trabalhador 5; T_s 7.000000; tarefas 5 15 25
+Estacao 4; trabalhador 14; T_s 9.000000; tarefas 20 27
+Estacao 5; trabalhador 16; T_s 8.000000; tarefas 7 13 14 16 35
+Estacao 6; trabalhador 12; T_s 8.000000; tarefas 10 12 21 36
+Estacao 7; trabalhador 4; T_s 9.000000; tarefas 8 40 43 46
+Estacao 8; trabalhador 10; T_s 7.000000; tarefas 18 42 47 50
+Estacao 9; trabalhador 2; T_s 8.000000; tarefas 17 26 34
+Estacao 10; trabalhador 8; T_s 6.000000; tarefas 28 29 32 49 61
+Estacao 11; trabalhador 19; T_s 9.000000; tarefas 23 48 52 55 59 66
+Estacao 12; trabalhador 17; T_s 8.000000; tarefas 22 57 60 68
+Estacao 13; trabalhador 6; T_s 8.000000; tarefas 31 33 39 54 73
+Estacao 14; trabalhador 9; T_s 9.000000; tarefas 30 37 56 64 71
+Estacao 15; trabalhador 15; T_s 9.000000; tarefas 41 45 51 53 70
+Estacao 16; trabalhador 13; T_s 9.000000; tarefas 11 58 62 69
+Estacao 17; trabalhador 1; T_s 4.000000; tarefas 72
+Estacao 18; trabalhador 18; T_s 9.000000; tarefas 19 63 65
+Estacao 19; trabalhador 7; T_s 9.000000; tarefas 38 44 67 74 75
