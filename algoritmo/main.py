@@ -13,8 +13,7 @@ def run_alns(instancia_path, time_limit=180, max_iter=5000, segment_length=100,
     # gera 5 seeds aleatórios fixos
     seeds = [random.randint(1, 1000) for _ in range(5)]
 
-    with open(output_file, "w") as f:
-        for seed in seeds:
+    with open(output_file, "w") as f: 
             alns = ALNS(data,
                         seed=seed,
                         segment_length=segment_length,
@@ -62,4 +61,4 @@ def run_all_instances(instancias_dir="instancias", resultados_dir="resultados"):
 
 # exemplo de uso
 if __name__ == "__main__":
-    run_all_instances("instancias", "resultados")
+    run_all_instances("instancias", "resultados_heuristica")

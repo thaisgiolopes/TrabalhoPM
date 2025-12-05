@@ -103,7 +103,8 @@ class ALNS:
                 if current is not None:
                     break
             if current is None:
-                raise RuntimeError("Falha ao construir solução inicial viável.")
+                # não conseguiu construir solução viável para este seed
+                return None, None, None
 
         solucao_inicial = current.clone()
         best = current.clone()

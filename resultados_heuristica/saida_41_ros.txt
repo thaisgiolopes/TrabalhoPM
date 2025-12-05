@@ -1,0 +1,50 @@
+690
+77.00
+11.00
+3.59 s
+Estacao 1, Trabalhador 3, T_s=11.000000, Tarefas=[1, 2, 3, 4, 8]
+Estacao 2, Trabalhador 2, T_s=11.000000, Tarefas=[5, 6, 9]
+Estacao 3, Trabalhador 6, T_s=11.000000, Tarefas=[7, 11, 12, 13, 14]
+Estacao 4, Trabalhador 5, T_s=11.000000, Tarefas=[10, 15, 16, 17, 18, 19, 20, 23]
+Estacao 5, Trabalhador 4, T_s=9.000000, Tarefas=[21, 22, 24]
+Estacao 6, Trabalhador 1, T_s=4.000000, Tarefas=[25]
+513
+83.00
+10.00
+2.56 s
+Estacao 1, Trabalhador 3, T_s=10.000000, Tarefas=[1, 2, 3, 4]
+Estacao 2, Trabalhador 4, T_s=10.000000, Tarefas=[5, 6, 8]
+Estacao 3, Trabalhador 2, T_s=10.000000, Tarefas=[7, 11, 12, 15]
+Estacao 4, Trabalhador 6, T_s=10.000000, Tarefas=[9, 13, 14, 19, 20, 21]
+Estacao 5, Trabalhador 5, T_s=9.000000, Tarefas=[10, 16, 17, 18, 23, 24]
+Estacao 6, Trabalhador 1, T_s=9.000000, Tarefas=[22, 25]
+868
+83.00
+11.00
+0.77 s
+Estacao 1, Trabalhador 3, T_s=11.000000, Tarefas=[1, 2, 3, 4, 8]
+Estacao 2, Trabalhador 2, T_s=11.000000, Tarefas=[5, 6, 7, 12]
+Estacao 3, Trabalhador 5, T_s=11.000000, Tarefas=[9, 11, 13, 14, 16, 19]
+Estacao 4, Trabalhador 6, T_s=8.000000, Tarefas=[10, 15, 20, 21, 22]
+Estacao 5, Trabalhador 4, T_s=10.000000, Tarefas=[17, 23, 24]
+Estacao 6, Trabalhador 1, T_s=9.000000, Tarefas=[18, 25]
+67
+70.00
+11.00
+0.47 s
+Estacao 1, Trabalhador 3, T_s=11.000000, Tarefas=[1, 2, 3, 4, 8]
+Estacao 2, Trabalhador 2, T_s=11.000000, Tarefas=[5, 6, 7, 12]
+Estacao 3, Trabalhador 5, T_s=11.000000, Tarefas=[9, 11, 13, 14, 15, 17]
+Estacao 4, Trabalhador 4, T_s=11.000000, Tarefas=[19, 20, 21, 24]
+Estacao 5, Trabalhador 1, T_s=11.000000, Tarefas=[16, 18, 23]
+Estacao 6, Trabalhador 6, T_s=8.000000, Tarefas=[10, 22, 25]
+866
+77.00
+11.00
+2.31 s
+Estacao 1, Trabalhador 3, T_s=11.000000, Tarefas=[1, 2, 3, 4, 8]
+Estacao 2, Trabalhador 2, T_s=10.000000, Tarefas=[5, 6, 7]
+Estacao 3, Trabalhador 5, T_s=11.000000, Tarefas=[9, 10, 11, 13, 14, 16]
+Estacao 4, Trabalhador 6, T_s=11.000000, Tarefas=[12, 15, 19, 20, 21, 24]
+Estacao 5, Trabalhador 4, T_s=11.000000, Tarefas=[17, 22, 23]
+Estacao 6, Trabalhador 1, T_s=9.000000, Tarefas=[18, 25]

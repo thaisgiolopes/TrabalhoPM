@@ -1,0 +1,70 @@
+957
+1891.00
+404.00
+1.86 s
+Estacao 1, Trabalhador 4, T_s=378.000000, Tarefas=[1, 5, 9, 10, 11, 15, 16, 17, 18, 19, 20, 21, 22, 24, 30, 41, 57, 58, 59, 69, 70]
+Estacao 2, Trabalhador 6, T_s=404.000000, Tarefas=[2, 3, 4, 6, 7, 8, 12, 13, 14, 23, 25, 29, 31]
+Estacao 3, Trabalhador 5, T_s=403.000000, Tarefas=[26, 27, 28, 32, 33, 34, 35, 36, 37, 38, 44, 45, 46, 48, 56, 60, 68]
+Estacao 4, Trabalhador 7, T_s=269.000000, Tarefas=[39, 40, 42, 43, 47, 49, 50, 51, 52, 53, 54, 61, 62, 63, 64, 65, 66]
+Estacao 5, Trabalhador 9, T_s=0.000000, Tarefas=[]
+Estacao 6, Trabalhador 1, T_s=38.000000, Tarefas=[55]
+Estacao 7, Trabalhador 2, T_s=0.000000, Tarefas=[]
+Estacao 8, Trabalhador 8, T_s=0.000000, Tarefas=[]
+Estacao 9, Trabalhador 3, T_s=0.000000, Tarefas=[]
+Estacao 10, Trabalhador 10, T_s=4.000000, Tarefas=[67]
+149
+2027.00
+167.00
+17.50 s
+Estacao 1, Trabalhador 5, T_s=167.000000, Tarefas=[1, 2, 15, 16, 18]
+Estacao 2, Trabalhador 6, T_s=166.000000, Tarefas=[3, 4, 5, 6, 9, 10, 11, 17, 19, 24, 41, 69]
+Estacao 3, Trabalhador 2, T_s=156.000000, Tarefas=[7, 8, 12, 13, 20, 21, 22, 30]
+Estacao 4, Trabalhador 9, T_s=164.000000, Tarefas=[14, 23, 25, 26, 28, 31, 32, 33, 34, 57, 58, 59, 70]
+Estacao 5, Trabalhador 10, T_s=167.000000, Tarefas=[27, 29, 35, 36, 37, 38, 39, 40, 42, 43, 44, 45, 51, 52, 61]
+Estacao 6, Trabalhador 7, T_s=142.000000, Tarefas=[46, 47, 48, 49, 50, 53, 54, 56, 62]
+Estacao 7, Trabalhador 4, T_s=74.000000, Tarefas=[55, 60, 63, 64, 65, 66, 67]
+Estacao 8, Trabalhador 8, T_s=58.000000, Tarefas=[68]
+Estacao 9, Trabalhador 3, T_s=0.000000, Tarefas=[]
+Estacao 10, Trabalhador 1, T_s=0.000000, Tarefas=[]
+649
+2281.00
+192.00
+11.50 s
+Estacao 1, Trabalhador 4, T_s=192.000000, Tarefas=[1, 5, 15, 16, 17, 18, 19, 20, 21, 57, 58, 70]
+Estacao 2, Trabalhador 6, T_s=192.000000, Tarefas=[2, 3, 4, 6, 7, 9, 10, 11]
+Estacao 3, Trabalhador 2, T_s=191.000000, Tarefas=[8, 12, 13, 14, 22, 23, 30, 31, 33]
+Estacao 4, Trabalhador 7, T_s=192.000000, Tarefas=[24, 25, 26, 27, 28, 29, 32, 34, 35, 36, 37, 38, 39, 40, 41, 51, 52, 53]
+Estacao 5, Trabalhador 10, T_s=177.000000, Tarefas=[42, 43, 44, 45, 46, 48, 49, 59, 60, 61, 62, 69]
+Estacao 6, Trabalhador 8, T_s=169.000000, Tarefas=[47, 50, 56, 63, 64, 65, 66, 67]
+Estacao 7, Trabalhador 5, T_s=147.000000, Tarefas=[54, 55, 68]
+Estacao 8, Trabalhador 1, T_s=0.000000, Tarefas=[]
+Estacao 9, Trabalhador 3, T_s=0.000000, Tarefas=[]
+Estacao 10, Trabalhador 9, T_s=0.000000, Tarefas=[]
+764
+2452.00
+160.00
+24.18 s
+Estacao 1, Trabalhador 6, T_s=160.000000, Tarefas=[1, 2, 3, 4, 5, 6, 7, 9, 10, 24, 30, 70]
+Estacao 2, Trabalhador 4, T_s=160.000000, Tarefas=[8, 11, 12, 14, 15, 16, 17]
+Estacao 3, Trabalhador 7, T_s=152.000000, Tarefas=[13, 18, 19, 20, 21, 22, 41, 57, 58, 69]
+Estacao 4, Trabalhador 2, T_s=159.000000, Tarefas=[23, 25, 26, 28, 29, 31, 33, 34, 59]
+Estacao 5, Trabalhador 10, T_s=145.000000, Tarefas=[27, 32, 35, 36, 37, 38, 39, 40, 44, 51, 52]
+Estacao 6, Trabalhador 3, T_s=144.000000, Tarefas=[45, 53, 54, 56, 60, 61, 62, 68]
+Estacao 7, Trabalhador 9, T_s=138.000000, Tarefas=[42, 43, 46, 47, 48]
+Estacao 8, Trabalhador 8, T_s=132.000000, Tarefas=[49, 50, 55, 63, 64, 65, 66, 67]
+Estacao 9, Trabalhador 1, T_s=0.000000, Tarefas=[]
+Estacao 10, Trabalhador 5, T_s=0.000000, Tarefas=[]
+576
+2264.00
+108.00
+31.62 s
+Estacao 1, Trabalhador 3, T_s=104.000000, Tarefas=[1, 2, 3, 4, 5, 30, 41, 68]
+Estacao 2, Trabalhador 6, T_s=106.000000, Tarefas=[6, 7, 8, 9, 10]
+Estacao 3, Trabalhador 4, T_s=103.000000, Tarefas=[15, 16, 17, 18, 19, 22, 24, 57, 58, 69, 70]
+Estacao 4, Trabalhador 9, T_s=83.000000, Tarefas=[11, 12, 14, 20, 59]
+Estacao 5, Trabalhador 7, T_s=107.000000, Tarefas=[13, 21, 23, 25, 26, 29, 31, 32]
+Estacao 6, Trabalhador 1, T_s=102.000000, Tarefas=[33]
+Estacao 7, Trabalhador 5, T_s=108.000000, Tarefas=[27, 28, 34, 35, 36, 44, 45, 61]
+Estacao 8, Trabalhador 10, T_s=108.000000, Tarefas=[37, 38, 46, 51, 52, 53, 62, 63, 64, 66, 67]
+Estacao 9, Trabalhador 2, T_s=103.000000, Tarefas=[39, 40, 42, 48, 54, 56]
+Estacao 10, Trabalhador 8, T_s=108.000000, Tarefas=[43, 47, 49, 50, 55, 60, 65]

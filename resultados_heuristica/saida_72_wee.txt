@@ -1,0 +1,94 @@
+912
+209.00
+24.00
+59.65 s
+Estacao 1, Trabalhador 9, T_s=15.000000, Tarefas=[1, 6, 7]
+Estacao 2, Trabalhador 19, T_s=24.000000, Tarefas=[3, 4, 5, 9, 10, 16]
+Estacao 3, Trabalhador 6, T_s=23.000000, Tarefas=[2, 12, 15, 23]
+Estacao 4, Trabalhador 8, T_s=24.000000, Tarefas=[14, 18, 20, 27, 36]
+Estacao 5, Trabalhador 2, T_s=20.000000, Tarefas=[26, 29, 31, 35, 38]
+Estacao 6, Trabalhador 11, T_s=23.000000, Tarefas=[17, 42, 43]
+Estacao 7, Trabalhador 3, T_s=20.000000, Tarefas=[24, 47, 49, 50]
+Estacao 8, Trabalhador 17, T_s=23.000000, Tarefas=[13, 21, 37, 40, 60]
+Estacao 9, Trabalhador 14, T_s=22.000000, Tarefas=[32, 52, 59, 66]
+Estacao 10, Trabalhador 5, T_s=23.000000, Tarefas=[19, 25, 28, 33, 41, 55]
+Estacao 11, Trabalhador 18, T_s=24.000000, Tarefas=[11, 68, 72, 74]
+Estacao 12, Trabalhador 16, T_s=24.000000, Tarefas=[8, 53, 54]
+Estacao 13, Trabalhador 15, T_s=24.000000, Tarefas=[22, 45, 56, 61, 64]
+Estacao 14, Trabalhador 7, T_s=24.000000, Tarefas=[46, 58, 62, 63, 69]
+Estacao 15, Trabalhador 4, T_s=23.000000, Tarefas=[34, 75]
+Estacao 16, Trabalhador 10, T_s=24.000000, Tarefas=[39, 67]
+Estacao 17, Trabalhador 12, T_s=22.000000, Tarefas=[30, 44, 48, 57]
+Estacao 18, Trabalhador 13, T_s=22.000000, Tarefas=[65, 70, 71, 73]
+Estacao 19, Trabalhador 1, T_s=22.000000, Tarefas=[51]
+15
+890.00
+25.00
+67.04 s
+Estacao 1, Trabalhador 12, T_s=23.000000, Tarefas=[1, 2, 6, 9]
+Estacao 2, Trabalhador 19, T_s=25.000000, Tarefas=[3, 4, 5, 7, 15, 16]
+Estacao 3, Trabalhador 8, T_s=21.000000, Tarefas=[14, 20, 27, 36]
+Estacao 4, Trabalhador 3, T_s=25.000000, Tarefas=[23, 24, 43]
+Estacao 5, Trabalhador 17, T_s=24.000000, Tarefas=[12, 13, 19, 40]
+Estacao 6, Trabalhador 16, T_s=25.000000, Tarefas=[8, 10, 18, 25]
+Estacao 7, Trabalhador 2, T_s=25.000000, Tarefas=[26, 29, 31, 34, 35, 46, 48]
+Estacao 8, Trabalhador 11, T_s=25.000000, Tarefas=[17, 21, 42, 47, 50]
+Estacao 9, Trabalhador 15, T_s=25.000000, Tarefas=[22, 28, 33, 37, 41]
+Estacao 10, Trabalhador 5, T_s=23.000000, Tarefas=[32, 49, 55, 59, 66]
+Estacao 11, Trabalhador 9, T_s=25.000000, Tarefas=[44, 52, 63, 64]
+Estacao 12, Trabalhador 1, T_s=25.000000, Tarefas=[68]
+Estacao 13, Trabalhador 7, T_s=24.000000, Tarefas=[38, 60, 62, 69, 74]
+Estacao 14, Trabalhador 18, T_s=24.000000, Tarefas=[11, 30, 61, 72]
+Estacao 15, Trabalhador 10, T_s=24.000000, Tarefas=[39, 56, 70, 75]
+Estacao 16, Trabalhador 4, T_s=25.000000, Tarefas=[45, 53, 54]
+Estacao 17, Trabalhador 14, T_s=14.000000, Tarefas=[51, 67]
+Estacao 18, Trabalhador 13, T_s=25.000000, Tarefas=[58, 65, 71, 73]
+Estacao 19, Trabalhador 6, T_s=16.000000, Tarefas=[57]
+843
+890.00
+28.00
+50.70 s
+Estacao 1, Trabalhador 9, T_s=26.000000, Tarefas=[1, 6, 7, 10]
+Estacao 2, Trabalhador 6, T_s=28.000000, Tarefas=[2, 3, 18]
+Estacao 3, Trabalhador 16, T_s=28.000000, Tarefas=[4, 8, 9]
+Estacao 4, Trabalhador 1, T_s=28.000000, Tarefas=[5, 13]
+Estacao 5, Trabalhador 10, T_s=28.000000, Tarefas=[11, 16, 24, 25]
+Estacao 6, Trabalhador 15, T_s=26.000000, Tarefas=[14, 15, 22, 26, 28]
+Estacao 7, Trabalhador 18, T_s=20.000000, Tarefas=[12]
+Estacao 8, Trabalhador 8, T_s=28.000000, Tarefas=[19, 20, 27, 32, 36]
+Estacao 9, Trabalhador 4, T_s=26.000000, Tarefas=[31, 35, 40]
+Estacao 10, Trabalhador 11, T_s=26.000000, Tarefas=[17, 29, 30, 42, 43]
+Estacao 11, Trabalhador 3, T_s=26.000000, Tarefas=[21, 23, 44, 45, 47, 49, 50, 59, 66]
+Estacao 12, Trabalhador 5, T_s=28.000000, Tarefas=[33, 41, 52, 55]
+Estacao 13, Trabalhador 17, T_s=25.000000, Tarefas=[37, 53, 57, 58]
+Estacao 14, Trabalhador 2, T_s=26.000000, Tarefas=[46, 48, 60, 63, 64, 68, 69]
+Estacao 15, Trabalhador 19, T_s=17.000000, Tarefas=[38, 61, 72, 73]
+Estacao 16, Trabalhador 7, T_s=18.000000, Tarefas=[34, 56, 62]
+Estacao 17, Trabalhador 12, T_s=27.000000, Tarefas=[39, 54, 75]
+Estacao 18, Trabalhador 13, T_s=23.000000, Tarefas=[65, 70, 71, 74]
+Estacao 19, Trabalhador 14, T_s=14.000000, Tarefas=[51, 67]
+Seed 385
+ALNS não conseguiu achar uma solução válida.
+100
+919.00
+26.00
+26.65 s
+Estacao 1, Trabalhador 12, T_s=26.000000, Tarefas=[1, 2, 6, 10, 18]
+Estacao 2, Trabalhador 11, T_s=6.000000, Tarefas=[7]
+Estacao 3, Trabalhador 19, T_s=23.000000, Tarefas=[3, 4, 5, 9, 15, 16]
+Estacao 4, Trabalhador 8, T_s=26.000000, Tarefas=[20, 27, 35]
+Estacao 5, Trabalhador 10, T_s=26.000000, Tarefas=[8, 21, 24, 25, 42]
+Estacao 6, Trabalhador 9, T_s=25.000000, Tarefas=[13, 36, 47, 52]
+Estacao 7, Trabalhador 3, T_s=25.000000, Tarefas=[23, 26, 28, 43, 49, 50]
+Estacao 8, Trabalhador 17, T_s=24.000000, Tarefas=[32, 40, 59, 66]
+Estacao 9, Trabalhador 2, T_s=26.000000, Tarefas=[29, 31, 34, 46, 48, 68, 69]
+Estacao 10, Trabalhador 15, T_s=24.000000, Tarefas=[14, 22, 33, 37, 41, 45]
+Estacao 11, Trabalhador 14, T_s=24.000000, Tarefas=[17, 38, 39, 51, 53, 72]
+Estacao 12, Trabalhador 7, T_s=26.000000, Tarefas=[12, 19, 58, 60, 62]
+Estacao 13, Trabalhador 13, T_s=25.000000, Tarefas=[11, 65, 70, 71, 73]
+Estacao 14, Trabalhador 4, T_s=23.000000, Tarefas=[44, 54, 75]
+Estacao 15, Trabalhador 16, T_s=24.000000, Tarefas=[55, 67]
+Estacao 16, Trabalhador 18, T_s=20.000000, Tarefas=[30, 61, 74]
+Estacao 17, Trabalhador 1, T_s=23.000000, Tarefas=[57]
+Estacao 18, Trabalhador 6, T_s=19.000000, Tarefas=[63]
+Estacao 19, Trabalhador 5, T_s=17.000000, Tarefas=[56, 64]

@@ -1,0 +1,70 @@
+88
+2269.00
+108.00
+16.40 s
+Estacao 1, Trabalhador 4, T_s=104.000000, Tarefas=[1, 2, 3, 4, 5, 6, 7, 8, 24, 30, 41, 70]
+Estacao 2, Trabalhador 5, T_s=90.000000, Tarefas=[9, 10, 15, 16, 17]
+Estacao 3, Trabalhador 1, T_s=106.000000, Tarefas=[11, 12]
+Estacao 4, Trabalhador 6, T_s=108.000000, Tarefas=[14, 18, 19, 20, 22, 57]
+Estacao 5, Trabalhador 9, T_s=105.000000, Tarefas=[13, 21, 23, 31, 58, 59, 68, 69]
+Estacao 6, Trabalhador 3, T_s=106.000000, Tarefas=[25, 27, 28, 32, 33, 34]
+Estacao 7, Trabalhador 8, T_s=106.000000, Tarefas=[26, 29, 35, 44, 45, 46, 62]
+Estacao 8, Trabalhador 10, T_s=107.000000, Tarefas=[36, 37, 38, 39, 40, 42, 47, 51, 52, 63, 64, 67]
+Estacao 9, Trabalhador 2, T_s=102.000000, Tarefas=[43, 48, 53, 56, 60, 61, 66]
+Estacao 10, Trabalhador 7, T_s=108.000000, Tarefas=[49, 50, 54, 55, 65]
+349
+2544.00
+174.00
+27.67 s
+Estacao 1, Trabalhador 5, T_s=174.000000, Tarefas=[1, 2, 9, 15, 16, 17, 18, 19]
+Estacao 2, Trabalhador 8, T_s=174.000000, Tarefas=[3, 4, 5, 6, 7, 8, 10, 11, 12, 14, 24]
+Estacao 3, Trabalhador 3, T_s=169.000000, Tarefas=[13, 20, 21, 22, 23, 25, 26, 27]
+Estacao 4, Trabalhador 4, T_s=174.000000, Tarefas=[28, 29, 30, 31, 32, 33, 34, 35, 56]
+Estacao 5, Trabalhador 10, T_s=173.000000, Tarefas=[36, 37, 38, 39, 40, 41, 42, 44, 45, 46, 47, 48, 49]
+Estacao 6, Trabalhador 7, T_s=172.000000, Tarefas=[43, 51, 52, 53, 54, 55, 69, 70]
+Estacao 7, Trabalhador 1, T_s=172.000000, Tarefas=[50, 57, 58, 59, 60, 61, 62]
+Estacao 8, Trabalhador 6, T_s=94.000000, Tarefas=[63, 64, 65, 66, 67, 68]
+Estacao 9, Trabalhador 2, T_s=0.000000, Tarefas=[]
+Estacao 10, Trabalhador 9, T_s=0.000000, Tarefas=[]
+156
+1968.00
+139.00
+17.14 s
+Estacao 1, Trabalhador 10, T_s=135.000000, Tarefas=[1, 2, 5, 9, 10, 15, 16, 18, 24, 30, 41]
+Estacao 2, Trabalhador 8, T_s=139.000000, Tarefas=[3, 4, 6, 7, 8, 11, 12, 14]
+Estacao 3, Trabalhador 9, T_s=131.000000, Tarefas=[13, 17, 19, 20, 21, 22, 23, 68, 69]
+Estacao 4, Trabalhador 4, T_s=137.000000, Tarefas=[25, 26, 27, 28, 31, 32, 70]
+Estacao 5, Trabalhador 6, T_s=137.000000, Tarefas=[29, 33, 34, 35, 36, 37, 38, 39, 57, 58, 59]
+Estacao 6, Trabalhador 3, T_s=137.000000, Tarefas=[40, 42, 43, 44, 45, 46, 47, 48, 49, 50, 51, 52, 62, 63]
+Estacao 7, Trabalhador 5, T_s=122.000000, Tarefas=[53, 54, 60, 61, 64, 65, 66, 67]
+Estacao 8, Trabalhador 7, T_s=34.000000, Tarefas=[55, 56]
+Estacao 9, Trabalhador 1, T_s=0.000000, Tarefas=[]
+Estacao 10, Trabalhador 2, T_s=0.000000, Tarefas=[]
+661
+2728.00
+448.00
+29.62 s
+Estacao 1, Trabalhador 5, T_s=447.000000, Tarefas=[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 15, 16, 17, 18, 19, 20, 24, 30, 57, 58]
+Estacao 2, Trabalhador 8, T_s=448.000000, Tarefas=[11, 12, 13, 14, 21, 22, 23, 25, 26, 27, 28, 29, 31, 32, 33, 34, 35]
+Estacao 3, Trabalhador 3, T_s=395.000000, Tarefas=[36, 37, 38, 39, 40, 44, 45, 46, 47, 48, 49, 51, 52, 53, 54, 55, 56, 59, 60, 61, 62, 63, 64, 65, 66, 67, 68, 69, 70]
+Estacao 4, Trabalhador 7, T_s=0.000000, Tarefas=[]
+Estacao 5, Trabalhador 10, T_s=17.000000, Tarefas=[41, 42]
+Estacao 6, Trabalhador 6, T_s=47.000000, Tarefas=[43, 50]
+Estacao 7, Trabalhador 4, T_s=0.000000, Tarefas=[]
+Estacao 8, Trabalhador 9, T_s=0.000000, Tarefas=[]
+Estacao 9, Trabalhador 2, T_s=0.000000, Tarefas=[]
+Estacao 10, Trabalhador 1, T_s=0.000000, Tarefas=[]
+264
+2649.00
+170.00
+10.89 s
+Estacao 1, Trabalhador 5, T_s=170.000000, Tarefas=[1, 2, 3, 4, 5, 7, 9, 10, 15, 16, 17, 24]
+Estacao 2, Trabalhador 8, T_s=163.000000, Tarefas=[6, 8, 11, 12, 14, 18]
+Estacao 3, Trabalhador 2, T_s=166.000000, Tarefas=[13, 19, 20, 21, 22, 23, 25, 27]
+Estacao 4, Trabalhador 4, T_s=169.000000, Tarefas=[26, 28, 29, 30, 31, 32, 33, 34, 35]
+Estacao 5, Trabalhador 3, T_s=169.000000, Tarefas=[36, 44, 45, 46, 47, 51, 52, 53, 54, 55, 57, 58, 62]
+Estacao 6, Trabalhador 10, T_s=164.000000, Tarefas=[37, 38, 39, 40, 41, 42, 59, 61, 63, 64, 65, 66, 68, 69]
+Estacao 7, Trabalhador 7, T_s=156.000000, Tarefas=[43, 48, 49, 50, 56, 60, 67, 70]
+Estacao 8, Trabalhador 1, T_s=0.000000, Tarefas=[]
+Estacao 9, Trabalhador 6, T_s=0.000000, Tarefas=[]
+Estacao 10, Trabalhador 9, T_s=0.000000, Tarefas=[]

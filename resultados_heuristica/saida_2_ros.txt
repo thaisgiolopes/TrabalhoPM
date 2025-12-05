@@ -1,0 +1,40 @@
+623
+109.00
+23.00
+0.48 s
+Estacao 1, Trabalhador 1, T_s=21.000000, Tarefas=[1, 2, 3, 4]
+Estacao 2, Trabalhador 2, T_s=22.000000, Tarefas=[5, 6, 7, 8, 9]
+Estacao 3, Trabalhador 4, T_s=23.000000, Tarefas=[10, 11, 12, 13, 14, 15, 16, 17, 19]
+Estacao 4, Trabalhador 3, T_s=22.000000, Tarefas=[18, 20, 21, 22, 23, 24, 25]
+140
+118.00
+29.00
+0.34 s
+Estacao 1, Trabalhador 4, T_s=4.000000, Tarefas=[1, 2]
+Estacao 2, Trabalhador 2, T_s=29.000000, Tarefas=[3, 4, 5, 6, 7, 8, 9, 12]
+Estacao 3, Trabalhador 3, T_s=29.000000, Tarefas=[10, 11, 13, 14, 15, 19, 20, 21, 22, 24]
+Estacao 4, Trabalhador 1, T_s=28.000000, Tarefas=[16, 17, 18, 23, 25]
+363
+118.00
+22.00
+0.44 s
+Estacao 1, Trabalhador 1, T_s=21.000000, Tarefas=[1, 2, 3, 4]
+Estacao 2, Trabalhador 4, T_s=22.000000, Tarefas=[5, 6, 7, 8, 9, 10, 12]
+Estacao 3, Trabalhador 3, T_s=21.000000, Tarefas=[11, 13, 14, 19, 20, 21, 24]
+Estacao 4, Trabalhador 2, T_s=22.000000, Tarefas=[15, 16, 17, 18, 22, 23, 25]
+735
+109.00
+29.00
+0.09 s
+Estacao 1, Trabalhador 4, T_s=4.000000, Tarefas=[1, 2]
+Estacao 2, Trabalhador 2, T_s=29.000000, Tarefas=[3, 4, 5, 6, 7, 8, 12, 15]
+Estacao 3, Trabalhador 3, T_s=29.000000, Tarefas=[9, 10, 11, 13, 14, 16, 19, 20, 21, 22, 24]
+Estacao 4, Trabalhador 1, T_s=25.000000, Tarefas=[17, 18, 23, 25]
+821
+121.00
+29.00
+0.25 s
+Estacao 1, Trabalhador 4, T_s=4.000000, Tarefas=[1, 2]
+Estacao 2, Trabalhador 2, T_s=29.000000, Tarefas=[3, 4, 5, 6, 7, 8, 9, 12]
+Estacao 3, Trabalhador 3, T_s=29.000000, Tarefas=[10, 11, 13, 14, 15, 19, 20, 21, 22, 24]
+Estacao 4, Trabalhador 1, T_s=28.000000, Tarefas=[16, 17, 18, 23, 25]
