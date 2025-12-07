@@ -111,7 +111,7 @@ python3 algoritmo/main_instancia_unica.py
 ▶️ 4. Rodar todas as instâncas (resulver por metaeurística)
 Processa automaticamente todos os .dat.
 ```
-python3 algoritmo?main_todas_instancias.py
+python3 algoritmo/main_todas_instancias.py
 ```
 Os resultados serão salvos no diretório:
 /resultados_heuristica
